@@ -7,6 +7,10 @@ A clean theme based on notebook paper tones.
 |:----------:|:-----------:|
 | ![dark](dark.png) | ![light](light.png) |
 
+*Plugins used in the screenshots:* 
+- [lsp](https://github.com/yegappan/lsp)
+- [vim-tene](https://github.com/kennypete/vim-tene)
+
 ## License
 
 All source code in this repository is licensed under the MIT License,
